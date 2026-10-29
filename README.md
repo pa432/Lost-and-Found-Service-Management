@@ -9,6 +9,12 @@ A full-stack web application that helps people report, search, and recover lost 
 
 ---
 
+
+
+
+Demo Video
+https://github.com/user-attachments/assets/ae57bff1-84b2-46c3-b046-5d07392adbb0
+
 ## ✨ Features
 
 - **🔐 Authentication** — JWT-based signup/login with role-based access (USER / ADMIN)
